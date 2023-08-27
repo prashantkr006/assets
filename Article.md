@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body>
 
 <h1>SCCM Installation Guide 😊</h1>
